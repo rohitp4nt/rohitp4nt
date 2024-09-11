@@ -1,4 +1,5 @@
-# 💫 About Me:
+# Yo! I’m Rohit👋
+
 Currently focused on MERN stack development, enhancing skills in building full-stack applications with MongoDB, Express, React, and Node.js.
 
 
